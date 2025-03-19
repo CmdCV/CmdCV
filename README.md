@@ -1,10 +1,20 @@
 <div align="center">
-  <h2>🐍 My Contributions</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=2500&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Hi%F0%9F%91%8B+I'm+Ale%C5%A1+Urb%C3%A1nek;Welcome+to+my+school+project+archive" alt="Typing SVG" /></a>
+</div>
+<!-- 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CmdCV/CmdCV/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CmdCV/CmdCV/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/CmdCV/CmdCV/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+</br>
+-->
+
+<div align="center"> 
+  <h2>👀 Visitors</h2>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
 </br>
 <div align="center">
@@ -39,9 +49,4 @@
   <a href="https://discordapp.com/users/388703368006205440" target="blank_"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="https://x.com/cmd_cv" target="blank_"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.linkedin.com/in/ales-urbanek" target="blank_"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</div>
-</br>
-<div align="center"> 
-  <h2>👀 Visitors</h2>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
