@@ -29,31 +29,31 @@
 -->
 <div align="center">
   <h2>🛠️ Languages, Tools & Socials</h2>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=scss" />
-  <img src="https://skillicons.dev/icons?i=angular" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://skillicons.dev/icons?i=scss" /></a>
+  <a href="https://angular.dev" target="_blank"><img src="https://skillicons.dev/icons?i=angular" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://devdocs.io/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
   </br>  
-  <img src="https://skillicons.dev/icons?i=apple" />  
-  <img src="https://skillicons.dev/icons?i=ubuntu" />  
-  <img src="https://skillicons.dev/icons?i=git" />
+  <a href="https://apple.com" target="_blank"><img src="https://skillicons.dev/icons?i=apple" /></a>
+  <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/CmdCV" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://gitlab.com/ales.urbanek" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://jetbrains.com/idea" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
   <a href="https://jetbrains.com/clion" target="_blank"><img src="https://skillicons.dev/icons?i=clion" /></a>
   <a href="https://jetbrains.com/pycharm" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
   <a href="https://jetbrains.com/webstorm" target="_blank"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
   <a href="https://jetbrains.com/phpstorm" target="_blank"><img src="https://skillicons.dev/icons?i=phpstorm" /></a>
-  <img src="https://skillicons.dev/icons?i=notion" />
+  <a href="https://www.notion.com" target="_blank"><img src="https://skillicons.dev/icons?i=notion" /></a>
   </br>  
   <a href="https://instagram.com/ales_urbanek_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://discordapp.com/users/388703368006205440" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
