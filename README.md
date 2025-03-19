@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=2500&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=Hi%F0%9F%91%8B+I'm+Ale%C5%A1+Urb%C3%A1nek;Welcome+to+my+school+project+archive" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=2500&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=60&lines=Hi%F0%9F%91%8B+I'm+Ale%C5%A1+Urb%C3%A1nek;Welcome+to+my+school+project+archive" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -59,6 +61,7 @@
   <a href="https://www.linkedin.com/in/ales-urbanek" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </div>
 <p align="end"> 
+  <img src="https://img.shields.io/badge/2-BIT@FIT-purple" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cmdcv.cmdcv" />
   <!--<img src="https://profile-counter.glitch.me/cmdcv/count.svg" alt="Visitor's Count" />-->
 </p>
