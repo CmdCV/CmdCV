@@ -1,3 +1,6 @@
+<div align="end"> 
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=2500&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Hi%F0%9F%91%8B+I'm+Ale%C5%A1+Urb%C3%A1nek;Welcome+to+my+school+project+archive" alt="Typing SVG" /></a>
 </div>
@@ -11,12 +14,6 @@
 </div>
 </br>
 -->
-
-<div align="center"> 
-  <h2>👀 Visitors</h2>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-</br>
 <div align="center">
   <h2>🛠️ Languages, Tools & Socials</h2>
   <img src="https://skillicons.dev/icons?i=html" />
