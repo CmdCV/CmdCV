@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/ales-urbanek" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </div>
 <p align="end"> 
-  <img src="https://img.shields.io/badge/2-BIT@FIT-purple" />
+  <img src="https://img.shields.io/badge/3-BIT@FIT-purple" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cmdcv.cmdcv" />
   <!--<img src="https://profile-counter.glitch.me/cmdcv/count.svg" alt="Visitor's Count" />-->
 </p>
